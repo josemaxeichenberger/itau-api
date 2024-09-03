@@ -1,0 +1,1019 @@
+[14-Mar-2022 18:44:54 America/Sao_Paulo] PHP Fatal error:  Call to a member function prepare() on null in /home/lawsmart/public_html/fetch.php on line 7
+[14-Mar-2022 19:54:52 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$cnpj' (T_VARIABLE), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/lawsmart/public_html/fetch.php on line 14
+[14-Mar-2022 19:54:52 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$cnpj' (T_VARIABLE), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/lawsmart/public_html/fetch.php on line 14
+[14-Mar-2022 19:54:58 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$cnpj' (T_VARIABLE), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/lawsmart/public_html/fetch.php on line 14
+[14-Mar-2022 19:55:22 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';' in /home/lawsmart/public_html/fetch.php on line 27
+[14-Mar-2022 19:55:37 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 8
+[14-Mar-2022 20:27:34 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 8
+[14-Mar-2022 20:35:27 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 8
+[14-Mar-2022 20:35:33 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 8
+[14-Mar-2022 20:37:07 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 8
+[14-Mar-2022 20:38:02 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 8
+[14-Mar-2022 20:39:08 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 8
+[14-Mar-2022 20:39:11 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 8
+[14-Mar-2022 20:39:12 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 8
+[14-Mar-2022 20:39:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 8
+[14-Mar-2022 20:39:43 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 8
+[14-Mar-2022 20:39:54 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 8
+[14-Mar-2022 20:39:57 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 8
+[15-Mar-2022 15:22:50 America/Sao_Paulo] PHP Warning:  Wrong parameter count for mysqli_stmt::bind_param() in /home/lawsmart/public_html/fetch.php on line 8
+[15-Mar-2022 15:24:25 America/Sao_Paulo] PHP Warning:  Wrong parameter count for mysqli_stmt::bind_param() in /home/lawsmart/public_html/fetch.php on line 8
+[15-Mar-2022 15:24:45 America/Sao_Paulo] PHP Warning:  Wrong parameter count for mysqli_stmt::bind_param() in /home/lawsmart/public_html/fetch.php on line 8
+[15-Mar-2022 15:26:33 America/Sao_Paulo] PHP Warning:  Wrong parameter count for mysqli_stmt::bind_param() in /home/lawsmart/public_html/fetch.php on line 9
+[19-Mar-2022 14:10:18 America/Sao_Paulo] PHP Fatal error:  Call to a member function execute() on boolean in /home/lawsmart/public_html/fetch.php on line 11
+[19-Mar-2022 14:11:35 America/Sao_Paulo] PHP Fatal error:  Call to a member function execute() on boolean in /home/lawsmart/public_html/fetch.php on line 11
+[19-Mar-2022 14:22:58 America/Sao_Paulo] PHP Fatal error:  Call to a member function prepare() on null in /home/lawsmart/public_html/fetch.php on line 50
+[19-Mar-2022 14:23:26 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 51
+[19-Mar-2022 14:26:59 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 51
+[19-Mar-2022 14:30:46 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 51
+[19-Mar-2022 14:31:46 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 51
+[19-Mar-2022 14:34:32 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 9
+[19-Mar-2022 14:38:47 America/Sao_Paulo] PHP Catchable fatal error:  Cannot unpack array with string keys in /home/lawsmart/public_html/fetch.php on line 9
+[19-Mar-2022 14:40:24 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/lawsmart/public_html/fetch.php on line 52
+[19-Mar-2022 14:52:26 America/Sao_Paulo] PHP Warning:  mysqli_stmt::execute(): Couldn't fetch mysqli_stmt in /home/lawsmart/public_html/fetch.php on line 53
+[19-Mar-2022 14:52:26 America/Sao_Paulo] PHP Warning:  mysqli_stmt::get_result(): Couldn't fetch mysqli_stmt in /home/lawsmart/public_html/fetch.php on line 54
+[19-Mar-2022 14:52:26 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/lawsmart/public_html/fetch.php on line 54
+[19-Mar-2022 14:57:07 America/Sao_Paulo] PHP Fatal error:  Call to undefined method mysqli_stmt::query() in /home/lawsmart/public_html/fetch.php on line 53
+[19-Mar-2022 15:51:01 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 9
+[19-Mar-2022 15:51:01 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 9
+[19-Mar-2022 15:51:37 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 9
+[19-Mar-2022 15:51:38 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 9
+[21-Mar-2022 17:24:57 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/fetch.php on line 9
+[21-Mar-2022 17:24:57 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/fetch.php on line 9
+[21-Mar-2022 17:24:57 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/fetch.php on line 30
+[21-Mar-2022 17:25:00 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/fetch.php on line 9
+[21-Mar-2022 17:25:00 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/fetch.php on line 9
+[21-Mar-2022 17:25:00 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/fetch.php on line 30
+[21-Mar-2022 17:25:05 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/fetch.php on line 9
+[21-Mar-2022 17:25:06 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/fetch.php on line 9
+[21-Mar-2022 17:25:06 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/fetch.php on line 30
+[21-Mar-2022 17:26:13 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/fetch.php on line 9
+[21-Mar-2022 17:26:13 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/fetch.php on line 9
+[21-Mar-2022 17:26:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/fetch.php on line 30
+[21-Mar-2022 17:26:16 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/fetch.php on line 9
+[21-Mar-2022 17:26:16 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/fetch.php on line 9
+[21-Mar-2022 17:26:16 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/fetch.php on line 30
+[22-Mar-2022 13:30:10 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/fetch.php on line 9
+[22-Mar-2022 13:30:10 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/fetch.php on line 9
+[22-Mar-2022 13:30:10 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/fetch.php on line 30
+[23-Mar-2022 14:57:54 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/operacoes.php on line 58
+[23-Mar-2022 14:57:54 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/operacoes.php on line 58
+[23-Mar-2022 14:57:54 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/operacoes.php on line 58
+[23-Mar-2022 14:57:54 America/Sao_Paulo] PHP Warning:  mysql_query() expects at least 1 parameter, 0 given in /home/lawsmart/public_html/operacoes.php on line 77
+[23-Mar-2022 14:58:33 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/operacoes.php on line 55
+[23-Mar-2022 14:58:33 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/operacoes.php on line 55
+[23-Mar-2022 14:58:33 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/operacoes.php on line 55
+[23-Mar-2022 14:58:33 America/Sao_Paulo] PHP Warning:  mysql_query() expects at least 1 parameter, 0 given in /home/lawsmart/public_html/operacoes.php on line 74
+[23-Mar-2022 14:58:48 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/operacoes.php on line 55
+[23-Mar-2022 14:58:48 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/operacoes.php on line 55
+[23-Mar-2022 14:58:48 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/operacoes.php on line 55
+[23-Mar-2022 14:58:48 America/Sao_Paulo] PHP Warning:  mysql_query() expects at least 1 parameter, 0 given in /home/lawsmart/public_html/operacoes.php on line 74
+[23-Mar-2022 14:59:07 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/operacoes.php on line 55
+[23-Mar-2022 14:59:07 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/operacoes.php on line 55
+[23-Mar-2022 14:59:07 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/operacoes.php on line 55
+[23-Mar-2022 14:59:07 America/Sao_Paulo] PHP Warning:  mysql_query() expects at least 1 parameter, 0 given in /home/lawsmart/public_html/operacoes.php on line 74
+[23-Mar-2022 15:01:58 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/operacoes.php on line 56
+[23-Mar-2022 15:01:58 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/operacoes.php on line 56
+[23-Mar-2022 15:01:58 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/operacoes.php on line 56
+[23-Mar-2022 15:01:58 America/Sao_Paulo] PHP Warning:  mysql_query() expects at least 1 parameter, 0 given in /home/lawsmart/public_html/operacoes.php on line 75
+[23-Mar-2022 15:02:00 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/operacoes.php on line 56
+[23-Mar-2022 15:02:00 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/operacoes.php on line 56
+[23-Mar-2022 15:02:00 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/operacoes.php on line 56
+[23-Mar-2022 15:02:00 America/Sao_Paulo] PHP Warning:  mysql_query() expects at least 1 parameter, 0 given in /home/lawsmart/public_html/operacoes.php on line 75
+[23-Mar-2022 15:02:29 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/operacoes.php on line 56
+[23-Mar-2022 15:02:29 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/operacoes.php on line 56
+[23-Mar-2022 15:02:29 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/operacoes.php on line 56
+[23-Mar-2022 15:03:11 America/Sao_Paulo] PHP Warning:  mysql_query() expects at least 1 parameter, 0 given in /home/lawsmart/public_html/operacoes.php on line 75
+[23-Mar-2022 15:10:16 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/operacoes.php on line 75
+[23-Mar-2022 15:11:41 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/operacoes.php on line 75
+[23-Mar-2022 15:11:44 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/operacoes.php on line 75
+[23-Mar-2022 15:23:42 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, array given in /home/lawsmart/public_html/operacoes.php on line 110
+[23-Mar-2022 15:23:59 America/Sao_Paulo] PHP Warning:  Wrong parameter count for number_format() in /home/lawsmart/public_html/operacoes.php on line 110
+[23-Mar-2022 15:24:01 America/Sao_Paulo] PHP Warning:  Wrong parameter count for number_format() in /home/lawsmart/public_html/operacoes.php on line 110
+[23-Mar-2022 15:43:46 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/operacoes.php on line 195
+[24-Mar-2022 14:16:06 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 9
+[24-Mar-2022 14:16:16 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 9
+[24-Mar-2022 14:17:26 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 9
+[24-Mar-2022 14:17:58 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 9
+[24-Mar-2022 14:19:49 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 9
+[24-Mar-2022 14:20:17 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 9
+[24-Mar-2022 14:21:11 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 9
+[24-Mar-2022 14:21:21 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 9
+[24-Mar-2022 14:22:45 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 9
+[24-Mar-2022 14:23:37 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 9
+[24-Mar-2022 14:23:40 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 9
+[24-Mar-2022 14:24:12 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 9
+[24-Mar-2022 14:24:16 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/fetch.php on line 9
+[12-Apr-2022 16:54:55 America/Sao_Paulo] PHP Catchable fatal error:  Object of class DOMElement could not be converted to string in /home/lawsmart/public_html/cdi.php on line 11
+[12-Apr-2022 17:08:00 America/Sao_Paulo] PHP Fatal error:  Call to undefined function str_length() in /home/lawsmart/public_html/cdi.php on line 14
+[14-Apr-2022 16:19:22 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ']' in /home/lawsmart/public_html/cdi.php on line 37
+[20-Apr-2022 16:21:52 America/Sao_Paulo] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_row() in /home/lawsmart/public_html/fetch.php on line 57
+[21-Apr-2022 19:04:53 America/Sao_Paulo] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/dados.php on line 2
+[21-Apr-2022 19:04:53 America/Sao_Paulo] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/dados.php on line 2
+[21-Apr-2022 19:04:53 America/Sao_Paulo] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/dados.php on line 2
+[21-Apr-2022 19:04:53 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/dados.php on line 5
+[21-Apr-2022 19:04:53 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/dados.php on line 5
+[21-Apr-2022 19:04:53 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/dados.php on line 5
+[11-May-2022 11:34:05 America/Sao_Paulo] PHP Warning:  include(classes/mpdf/mpdf.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/contrato.php on line 343
+[11-May-2022 11:34:05 America/Sao_Paulo] PHP Warning:  include(classes/mpdf/mpdf.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/contrato.php on line 343
+[11-May-2022 11:34:05 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/mpdf/mpdf.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/contrato.php on line 343
+[11-May-2022 11:34:05 America/Sao_Paulo] PHP Fatal error:  Class 'mPDF' not found in /home/lawsmart/public_html/contrato.php on line 344
+[11-May-2022 11:42:55 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '{' in /home/lawsmart/public_html/contrato.php on line 358
+[12-May-2022 16:24:29 America/Sao_Paulo] PHP Warning:  Only arrays and Traversables can be unpacked in /home/lawsmart/public_html/fetch.php on line 9
+[12-May-2022 16:24:29 America/Sao_Paulo] PHP Warning:  Wrong parameter count for mysqli_stmt::bind_param() in /home/lawsmart/public_html/fetch.php on line 9
+[12-May-2022 16:24:33 America/Sao_Paulo] PHP Warning:  Only arrays and Traversables can be unpacked in /home/lawsmart/public_html/fetch.php on line 9
+[12-May-2022 16:24:33 America/Sao_Paulo] PHP Warning:  Wrong parameter count for mysqli_stmt::bind_param() in /home/lawsmart/public_html/fetch.php on line 9
+[12-May-2022 16:24:40 America/Sao_Paulo] PHP Warning:  Only arrays and Traversables can be unpacked in /home/lawsmart/public_html/fetch.php on line 9
+[12-May-2022 16:24:40 America/Sao_Paulo] PHP Warning:  Wrong parameter count for mysqli_stmt::bind_param() in /home/lawsmart/public_html/fetch.php on line 9
+[12-May-2022 16:24:52 America/Sao_Paulo] PHP Warning:  Only arrays and Traversables can be unpacked in /home/lawsmart/public_html/fetch.php on line 9
+[12-May-2022 16:24:52 America/Sao_Paulo] PHP Warning:  Wrong parameter count for mysqli_stmt::bind_param() in /home/lawsmart/public_html/fetch.php on line 9
+[12-May-2022 16:25:18 America/Sao_Paulo] PHP Warning:  Only arrays and Traversables can be unpacked in /home/lawsmart/public_html/fetch.php on line 9
+[12-May-2022 16:25:18 America/Sao_Paulo] PHP Warning:  Wrong parameter count for mysqli_stmt::bind_param() in /home/lawsmart/public_html/fetch.php on line 9
+[12-May-2022 16:25:19 America/Sao_Paulo] PHP Warning:  Only arrays and Traversables can be unpacked in /home/lawsmart/public_html/fetch.php on line 9
+[12-May-2022 16:25:19 America/Sao_Paulo] PHP Warning:  Wrong parameter count for mysqli_stmt::bind_param() in /home/lawsmart/public_html/fetch.php on line 9
+[12-May-2022 16:43:18 America/Sao_Paulo] PHP Warning:  mysqli_error_list() expects parameter 1 to be mysqli, null given in /home/lawsmart/public_html/fetch.php on line 12
+[17-May-2022 08:15:08 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '.' in /home/lawsmart/public_html/contrato.php on line 13
+[17-May-2022 08:15:31 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/contrato.php on line 4
+[17-May-2022 08:15:31 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/contrato.php on line 4
+[17-May-2022 08:15:31 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/contrato.php on line 4
+[17-May-2022 08:15:32 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lawsmart/public_html/contrato.php:4) in /home/lawsmart/public_html/mpdf/mpdf.php on line 7447
+[17-May-2022 08:15:32 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lawsmart/public_html/contrato.php:4) in /home/lawsmart/public_html/mpdf/mpdf.php on line 1736
+[17-May-2022 08:31:42 America/Sao_Paulo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lawsmart/public_html/mpdf/mpdf.php on line 30643
+[17-May-2022 14:59:48 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/index.php on line 62
+[17-May-2022 14:59:48 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/index.php on line 62
+[17-May-2022 14:59:58 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/index.php on line 62
+[17-May-2022 14:59:58 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/index.php on line 62
+[17-May-2022 15:00:15 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/index.php on line 62
+[17-May-2022 15:00:15 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/index.php on line 62
+[17-May-2022 15:02:14 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/index.php on line 62
+[17-May-2022 15:02:14 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/index.php on line 62
+[17-May-2022 15:07:08 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/index.php on line 62
+[17-May-2022 15:07:08 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/index.php on line 62
+[19-May-2022 11:44:15 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 15:26:20 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 15:31:27 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 15:35:13 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 15:38:38 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 15:40:48 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 15:41:51 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 15:42:29 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 15:43:00 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 15:47:10 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 15:47:10 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 15:47:10 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 16:25:52 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lawsmart/public_html/config.php:15) in /home/lawsmart/public_html/verifica_login.php on line 18
+[23-May-2022 16:25:59 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lawsmart/public_html/config.php:15) in /home/lawsmart/public_html/verifica_login.php on line 18
+[23-May-2022 16:26:17 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lawsmart/public_html/config.php:15) in /home/lawsmart/public_html/verifica_login.php on line 18
+[23-May-2022 16:39:08 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 16:39:08 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 16:39:08 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 16:58:24 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 16:58:24 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 16:58:24 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:02:35 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:02:35 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:02:35 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:03:42 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:03:42 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:03:42 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:03:56 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:03:56 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:03:56 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:04:38 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:04:38 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:04:38 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:05:31 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:05:31 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:05:31 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:07:30 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:07:30 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:07:30 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:14:02 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:14:02 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:14:02 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:16:12 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:16:12 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:16:12 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:16:48 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:16:48 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:16:48 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:18:36 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:18:36 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:18:36 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:21:03 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:21:03 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:21:03 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:22:07 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:22:07 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:22:07 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:22:30 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:22:30 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:22:30 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:22:41 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lawsmart/public_html/config.php:15) in /home/lawsmart/public_html/verifica_login.php on line 29
+[23-May-2022 17:23:00 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lawsmart/public_html/config.php:15) in /home/lawsmart/public_html/verifica_login.php on line 20
+[23-May-2022 17:23:11 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lawsmart/public_html/config.php:15) in /home/lawsmart/public_html/verifica_login.php on line 20
+[23-May-2022 17:23:47 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lawsmart/public_html/config.php:15) in /home/lawsmart/public_html/verifica_login.php on line 29
+[23-May-2022 17:24:15 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lawsmart/public_html/config.php:15) in /home/lawsmart/public_html/verifica_login.php on line 29
+[23-May-2022 17:25:00 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lawsmart/public_html/config.php:15) in /home/lawsmart/public_html/verifica_login.php on line 29
+[23-May-2022 17:25:23 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lawsmart/public_html/config.php:15) in /home/lawsmart/public_html/verifica_login.php on line 24
+[23-May-2022 17:28:07 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:28:07 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:28:07 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:29:57 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:29:57 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:29:57 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:36:57 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:36:57 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:36:57 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:40:44 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:40:45 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:40:45 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:41:33 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:41:33 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:41:33 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:41:35 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:41:35 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:41:35 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:42:26 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:42:26 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:42:26 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:44:33 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:44:33 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:44:33 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:45:09 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:45:09 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:45:09 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:45:28 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:45:28 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:45:28 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:46:01 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:46:01 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:46:01 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:46:36 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:46:36 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:46:36 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:47:08 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:47:08 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:47:08 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:52:55 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:52:55 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:52:55 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:54:16 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:54:16 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:54:16 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[23-May-2022 17:55:01 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[23-May-2022 17:55:01 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[23-May-2022 17:55:01 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[24-May-2022 08:56:10 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 08:56:10 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[24-May-2022 08:56:10 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[24-May-2022 08:58:58 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 08:58:58 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[24-May-2022 08:58:58 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[24-May-2022 08:59:12 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 08:59:12 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[24-May-2022 08:59:12 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[24-May-2022 09:05:22 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 09:05:22 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[24-May-2022 09:05:22 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[24-May-2022 09:06:10 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 09:10:29 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 09:15:15 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 09:15:16 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[24-May-2022 09:15:16 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[24-May-2022 09:15:56 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 09:16:34 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 09:17:01 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 09:17:01 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[24-May-2022 09:17:01 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[24-May-2022 09:17:49 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 09:17:49 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[24-May-2022 09:17:49 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[24-May-2022 09:18:01 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 09:18:01 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[24-May-2022 09:18:01 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[24-May-2022 09:18:14 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 09:18:14 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[24-May-2022 09:18:14 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[24-May-2022 09:19:08 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 09:19:08 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[24-May-2022 09:19:08 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[24-May-2022 09:20:03 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 09:20:03 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[24-May-2022 09:20:03 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[24-May-2022 09:21:44 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 09:21:44 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[24-May-2022 09:21:44 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[24-May-2022 09:22:52 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 09:22:52 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[24-May-2022 09:22:52 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[24-May-2022 09:23:53 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 09:23:53 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[24-May-2022 09:23:53 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[24-May-2022 09:23:57 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 09:23:57 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[24-May-2022 09:23:57 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[24-May-2022 09:24:16 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 09:24:16 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[24-May-2022 09:24:16 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[24-May-2022 09:24:23 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 09:24:23 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8735
+[24-May-2022 09:24:23 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/mpdf/mpdf.php on line 8761
+[24-May-2022 09:24:39 America/Sao_Paulo] PHP Warning:  Division by zero in /home/lawsmart/public_html/mpdf/mpdf.php on line 8251
+[24-May-2022 10:01:43 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'valor' (T_STRING) in /home/lawsmart/public_html/contrato.php on line 141
+[26-May-2022 15:40:09 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/index.php on line 63
+[26-May-2022 15:40:09 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/index.php on line 63
+[26-May-2022 15:41:05 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/index.php on line 63
+[26-May-2022 15:41:05 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/index.php on line 63
+[26-May-2022 15:58:15 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/lawsmart/public_html/index.php on line 59
+[26-May-2022 16:00:45 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/lawsmart/public_html/index.php on line 59
+[26-May-2022 16:02:28 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/lawsmart/public_html/index.php on line 59
+[10-Jun-2022 15:04:26 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/index.php on line 63
+[10-Jun-2022 15:04:26 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/index.php on line 63
+[10-Jun-2022 15:06:40 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/index.php on line 63
+[10-Jun-2022 15:06:40 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/index.php on line 63
+[13-Jun-2022 09:41:59 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/index.php on line 63
+[13-Jun-2022 09:41:59 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/index.php on line 63
+[13-Jun-2022 09:43:11 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/index.php on line 62
+[13-Jun-2022 09:43:11 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/index.php on line 62
+[13-Jun-2022 09:43:17 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/index.php on line 62
+[13-Jun-2022 09:43:17 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/index.php on line 62
+[13-Jun-2022 09:43:21 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/index.php on line 62
+[13-Jun-2022 09:43:21 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/index.php on line 62
+[13-Jun-2022 09:43:36 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/index.php on line 62
+[13-Jun-2022 09:43:36 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/index.php on line 62
+[13-Jun-2022 09:44:13 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/index.php on line 62
+[13-Jun-2022 09:44:13 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/index.php on line 62
+[13-Jun-2022 09:44:31 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/index.php on line 62
+[13-Jun-2022 09:44:31 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/index.php on line 62
+[13-Jun-2022 09:44:40 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/index.php on line 62
+[13-Jun-2022 09:44:40 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/index.php on line 62
+[13-Jun-2022 09:45:14 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/index.php on line 62
+[13-Jun-2022 09:45:14 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/index.php on line 62
+[13-Jun-2022 09:53:38 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/lawsmart/public_html/index.php on line 59
+[13-Jun-2022 09:55:32 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/lawsmart/public_html/index.php on line 59
+[13-Jun-2022 09:57:53 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/lawsmart/public_html/index.php on line 59
+[22-Jun-2022 11:55:32 America/Sao_Paulo] PHP Fatal error:  Call to undefined method DOMNodeList::getElementsByTagName() in /home/lawsmart/public_html/brinvesting.php on line 14
+[22-Jun-2022 11:56:07 America/Sao_Paulo] PHP Fatal error:  Call to undefined method DOMNodeList::getElementsByTagName() in /home/lawsmart/public_html/brinvesting.php on line 14
+[22-Jun-2022 11:56:09 America/Sao_Paulo] PHP Fatal error:  Call to undefined method DOMNodeList::getElementsByTagName() in /home/lawsmart/public_html/brinvesting.php on line 14
+[22-Jun-2022 11:56:09 America/Sao_Paulo] PHP Fatal error:  Call to undefined method DOMNodeList::getElementsByTagName() in /home/lawsmart/public_html/brinvesting.php on line 14
+[22-Jun-2022 15:02:05 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';' in /home/lawsmart/public_html/brinvesting.php on line 21
+[22-Jun-2022 15:07:56 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/brinvesting.php on line 11
+[22-Jun-2022 15:18:06 America/Sao_Paulo] PHP Warning:  file_get_contents(https://br.investing.com/commodities/grains): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/lawsmart/public_html/brinvesting.php on line 25
+[22-Jun-2022 15:32:39 America/Sao_Paulo] PHP Warning:  file_get_contents(https://br.investing.com/commodities/grains): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/lawsmart/public_html/brinvesting.php on line 25
+[22-Jun-2022 15:36:59 America/Sao_Paulo] PHP Warning:  file_get_contents(https://br.investing.com/commodities/grains): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/lawsmart/public_html/brinvesting.php on line 25
+[22-Jun-2022 15:43:46 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '=' in /home/lawsmart/public_html/brinvesting.php on line 16
+[22-Jun-2022 15:58:46 America/Sao_Paulo] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/lawsmart/public_html/brinvesting.php on line 24
+[22-Jun-2022 15:59:47 America/Sao_Paulo] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/lawsmart/public_html/brinvesting.php on line 25
+[22-Jun-2022 16:00:33 America/Sao_Paulo] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/lawsmart/public_html/brinvesting.php on line 25
+[22-Jun-2022 16:01:09 America/Sao_Paulo] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/lawsmart/public_html/brinvesting.php on line 25
+[22-Jun-2022 16:01:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/lawsmart/public_html/brinvesting.php on line 25
+[22-Jun-2022 16:02:17 America/Sao_Paulo] PHP Fatal error:  Call to undefined method DOMNodeList::getElementsByTagName() in /home/lawsmart/public_html/brinvesting.php on line 21
+[22-Jun-2022 16:02:58 America/Sao_Paulo] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/lawsmart/public_html/brinvesting.php on line 29
+[22-Jun-2022 16:03:02 America/Sao_Paulo] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/lawsmart/public_html/brinvesting.php on line 29
+[22-Jun-2022 16:03:57 America/Sao_Paulo] PHP Catchable fatal error:  Object of class DOMElement could not be converted to string in /home/lawsmart/public_html/brinvesting.php on line 27
+[04-Aug-2022 11:33:52 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/clientes/contrato.php on line 84
+[04-Aug-2022 11:33:52 America/Sao_Paulo] PHP Warning:  include(mpdf/mpdf.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/clientes/contrato.php on line 456
+[04-Aug-2022 11:33:52 America/Sao_Paulo] PHP Warning:  include(mpdf/mpdf.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/clientes/contrato.php on line 456
+[04-Aug-2022 11:33:52 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'mpdf/mpdf.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/clientes/contrato.php on line 456
+[04-Aug-2022 11:33:52 America/Sao_Paulo] PHP Fatal error:  Class 'mPDF' not found in /home/lawsmart/public_html/clientes/contrato.php on line 458
+[04-Aug-2022 11:35:49 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/clientes/contrato.php on line 84
+[04-Aug-2022 11:35:49 America/Sao_Paulo] PHP Warning:  include(mpdf/mpdf.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/clientes/contrato.php on line 456
+[04-Aug-2022 11:35:49 America/Sao_Paulo] PHP Warning:  include(mpdf/mpdf.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/clientes/contrato.php on line 456
+[04-Aug-2022 11:35:49 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'mpdf/mpdf.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/clientes/contrato.php on line 456
+[04-Aug-2022 11:35:49 America/Sao_Paulo] PHP Fatal error:  Class 'mPDF' not found in /home/lawsmart/public_html/clientes/contrato.php on line 458
+[04-Aug-2022 11:37:57 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/clientes/contrato.php on line 84
+[04-Aug-2022 11:37:57 America/Sao_Paulo] PHP Warning:  include(mpdf/mpdf.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/clientes/contrato.php on line 456
+[04-Aug-2022 11:37:57 America/Sao_Paulo] PHP Warning:  include(mpdf/mpdf.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/clientes/contrato.php on line 456
+[04-Aug-2022 11:37:57 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'mpdf/mpdf.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/clientes/contrato.php on line 456
+[04-Aug-2022 11:37:57 America/Sao_Paulo] PHP Fatal error:  Class 'mPDF' not found in /home/lawsmart/public_html/clientes/contrato.php on line 458
+[04-Aug-2022 11:40:54 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/clientes/contrato.php on line 84
+[04-Aug-2022 11:40:54 America/Sao_Paulo] PHP Warning:  include(mpdf/mpdf.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/clientes/contrato.php on line 456
+[04-Aug-2022 11:40:54 America/Sao_Paulo] PHP Warning:  include(mpdf/mpdf.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/clientes/contrato.php on line 456
+[04-Aug-2022 11:40:54 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'mpdf/mpdf.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/clientes/contrato.php on line 456
+[04-Aug-2022 11:40:54 America/Sao_Paulo] PHP Fatal error:  Class 'mPDF' not found in /home/lawsmart/public_html/clientes/contrato.php on line 458
+[04-Aug-2022 11:45:27 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/clientes/contrato.php on line 84
+[04-Aug-2022 16:58:15 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/clientes/contrato.php on line 84
+[05-Aug-2022 16:05:09 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/clientes/contrato.php on line 84
+[13-Sep-2022 14:09:28 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/clientes/fetch.php on line 10
+[13-Sep-2022 14:09:28 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/clientes/contrato.php on line 89
+[13-Sep-2022 14:12:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/clientes/fetch.php on line 10
+[13-Sep-2022 14:12:14 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/clientes/contrato.php on line 89
+[13-Sep-2022 15:50:59 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/clientes/fetch.php on line 10
+[13-Sep-2022 15:50:59 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/clientes/contrato.php on line 89
+[13-Sep-2022 15:54:30 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/clientes/fetch.php on line 10
+[13-Sep-2022 15:54:31 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/clientes/contrato.php on line 89
+[13-Sep-2022 15:56:57 America/Sao_Paulo] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/lawsmart/public_html/clientes/fetch.php on line 99
+[13-Sep-2022 15:56:58 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/clientes/contrato.php on line 89
+[13-Sep-2022 15:59:06 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/clientes/fetch.php on line 10
+[13-Sep-2022 15:59:06 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/clientes/contrato.php on line 89
+[13-Sep-2022 16:00:52 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/clientes/fetch.php on line 10
+[13-Sep-2022 16:00:52 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/clientes/contrato.php on line 89
+[13-Sep-2022 16:13:55 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/clientes/fetch.php on line 10
+[13-Sep-2022 16:13:55 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/clientes/contrato.php on line 89
+[13-Sep-2022 16:37:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/clientes/fetch.php on line 10
+[13-Sep-2022 16:37:13 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/clientes/contrato.php on line 89
+[19-Oct-2022 09:00:56 America/Sao_Paulo] PHP Warning:  fopen(../contratos/contrato_11.480.367/0001-76_4096.pdf): failed to open stream: No such file or directory in /home/lawsmart/public_html/mpdf/mpdf.php on line 7485
+[19-Oct-2022 09:00:56 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lawsmart/public_html/mpdf/mpdf.php:7485) in /home/lawsmart/public_html/mpdf/mpdf.php on line 1736
+[19-Oct-2022 09:02:23 America/Sao_Paulo] PHP Warning:  fopen(../contratos/contrato_41.463.009/0001-16_1.pdf): failed to open stream: No such file or directory in /home/lawsmart/public_html/mpdf/mpdf.php on line 7485
+[19-Oct-2022 09:02:23 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lawsmart/public_html/mpdf/mpdf.php:7485) in /home/lawsmart/public_html/mpdf/mpdf.php on line 1736
+[19-Oct-2022 15:27:45 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/clientes/fetch.php on line 10
+[19-Oct-2022 15:27:45 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/clientes/fetch.php on line 10
+[19-Oct-2022 15:49:16 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/clientes/fetch.php on line 10
+[19-Oct-2022 15:49:16 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/clientes/fetch.php on line 10
+[19-Oct-2022 16:12:16 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/clientes/fetch.php on line 10
+[19-Oct-2022 16:12:16 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/clientes/fetch.php on line 10
+[19-Oct-2022 16:14:48 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/clientes/fetch.php on line 10
+[19-Oct-2022 16:14:48 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/clientes/fetch.php on line 10
+[19-Oct-2022 17:18:53 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/clientes/fetch.php on line 10
+[19-Oct-2022 17:18:53 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/clientes/fetch.php on line 10
+[19-Oct-2022 17:21:59 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/clientes/fetch.php on line 10
+[19-Oct-2022 17:21:59 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/clientes/fetch.php on line 10
+[20-Oct-2022 09:46:22 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/clientes/contrato.php on line 142
+[20-Oct-2022 09:46:22 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/clientes/contrato.php on line 146
+[20-Oct-2022 09:46:22 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/clientes/contrato.php on line 142
+[20-Oct-2022 09:46:22 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/clientes/contrato.php on line 146
+[20-Oct-2022 09:46:22 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/clientes/contrato.php on line 142
+[20-Oct-2022 09:46:22 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/clientes/contrato.php on line 146
+[20-Oct-2022 09:46:22 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/clientes/contrato.php on line 142
+[20-Oct-2022 09:46:22 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/clientes/contrato.php on line 146
+[20-Oct-2022 09:46:22 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/clientes/contrato.php on line 142
+[20-Oct-2022 09:46:22 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/clientes/contrato.php on line 146
+[20-Oct-2022 09:46:22 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/clientes/contrato.php on line 142
+[20-Oct-2022 09:46:22 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/clientes/contrato.php on line 142
+[20-Oct-2022 09:46:22 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/clientes/contrato.php on line 146
+[21-Nov-2022 11:21:05 America/Sao_Paulo] PHP Warning:  file_get_contents(contratos/contrato_32527198000152_4.pdf): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 36
+[21-Nov-2022 11:21:05 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 85
+[21-Nov-2022 14:49:01 America/Sao_Paulo] PHP Warning:  include(mpdf/mpdf.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 468
+[21-Nov-2022 14:49:01 America/Sao_Paulo] PHP Warning:  include(mpdf/mpdf.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 468
+[21-Nov-2022 14:49:01 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'mpdf/mpdf.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 468
+[21-Nov-2022 14:49:01 America/Sao_Paulo] PHP Fatal error:  Class 'mPDF' not found in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 470
+[21-Nov-2022 14:49:10 America/Sao_Paulo] PHP Warning:  include(mpdf/mpdf.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 468
+[21-Nov-2022 14:49:10 America/Sao_Paulo] PHP Warning:  include(mpdf/mpdf.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 468
+[21-Nov-2022 14:49:10 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'mpdf/mpdf.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 468
+[21-Nov-2022 14:49:10 America/Sao_Paulo] PHP Fatal error:  Class 'mPDF' not found in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 470
+[21-Nov-2022 15:13:20 America/Sao_Paulo] PHP Warning:  file_get_contents(contratos/contrato_32527198000152_5.pdf): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 36
+[21-Nov-2022 15:13:20 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 85
+[21-Nov-2022 15:15:36 America/Sao_Paulo] PHP Warning:  file_get_contents(contratos/contrato_32527198000152_6.pdf): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 36
+[21-Nov-2022 15:15:36 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 85
+[21-Nov-2022 15:16:12 America/Sao_Paulo] PHP Warning:  file_get_contents(contratos/contrato_32527198000152_7.pdf): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 36
+[21-Nov-2022 15:16:12 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 85
+[21-Nov-2022 15:34:44 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 83
+[21-Nov-2022 15:38:40 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 83
+[21-Nov-2022 15:39:16 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 83
+[21-Nov-2022 15:39:21 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 83
+[21-Nov-2022 15:39:34 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 83
+[21-Nov-2022 15:39:53 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 15:40:51 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 15:44:02 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 15:44:34 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 15:44:54 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 15:45:05 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 15:45:16 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 15:45:22 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 15:45:30 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 15:45:42 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 15:45:46 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 15:45:51 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 15:46:07 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 15:46:35 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 15:46:43 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 15:57:20 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 15:59:00 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 119
+[21-Nov-2022 15:59:00 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 120
+[21-Nov-2022 15:59:00 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 16:11:06 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 119
+[21-Nov-2022 16:11:06 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 120
+[21-Nov-2022 16:11:06 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 16:12:46 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 119
+[21-Nov-2022 16:12:46 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 120
+[21-Nov-2022 16:12:46 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 16:15:19 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 119
+[21-Nov-2022 16:15:19 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 120
+[21-Nov-2022 16:15:19 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 16:15:54 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 119
+[21-Nov-2022 16:15:54 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 120
+[21-Nov-2022 16:15:54 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 16:16:08 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 119
+[21-Nov-2022 16:16:08 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 120
+[21-Nov-2022 16:16:08 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 16:16:19 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 119
+[21-Nov-2022 16:16:19 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 120
+[21-Nov-2022 16:16:19 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 16:16:59 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 119
+[21-Nov-2022 16:16:59 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 120
+[21-Nov-2022 16:16:59 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 16:20:04 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 119
+[21-Nov-2022 16:20:04 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 120
+[21-Nov-2022 16:20:04 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 16:21:42 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 119
+[21-Nov-2022 16:21:42 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 120
+[21-Nov-2022 16:21:42 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 16:22:32 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 119
+[21-Nov-2022 16:22:32 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 120
+[21-Nov-2022 16:22:32 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 16:22:39 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 118
+[21-Nov-2022 16:22:39 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 119
+[21-Nov-2022 16:22:39 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 16:23:24 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 118
+[21-Nov-2022 16:23:24 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 119
+[21-Nov-2022 16:23:24 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 16:25:16 America/Sao_Paulo] PHP Warning:  Attempt to modify property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 118
+[21-Nov-2022 16:25:16 America/Sao_Paulo] PHP Warning:  Attempt to modify property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 119
+[21-Nov-2022 16:25:16 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 16:25:23 America/Sao_Paulo] PHP Warning:  Attempt to modify property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 118
+[21-Nov-2022 16:25:23 America/Sao_Paulo] PHP Warning:  Attempt to modify property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 119
+[21-Nov-2022 16:25:23 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 16:25:47 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 118
+[21-Nov-2022 16:25:47 America/Sao_Paulo] PHP Warning:  Attempt to assign property of non-object in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 119
+[21-Nov-2022 16:25:47 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 16:26:26 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 16:39:25 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 16:40:33 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 17
+[21-Nov-2022 16:49:17 America/Sao_Paulo] PHP Warning:  file_get_contents(contratos/contrato_32527198000152_9.pdf): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 36
+[21-Nov-2022 16:49:17 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 85
+[21-Nov-2022 16:49:26 America/Sao_Paulo] PHP Warning:  file_get_contents(contratos/contrato_32527198000152_9.pdf): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 36
+[21-Nov-2022 16:49:26 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 85
+[21-Nov-2022 16:49:29 America/Sao_Paulo] PHP Warning:  file_get_contents(contratos/contrato_32527198000152_9.pdf): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 36
+[21-Nov-2022 16:49:29 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 18
+[21-Nov-2022 16:49:29 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 135
+[21-Nov-2022 16:49:39 America/Sao_Paulo] PHP Warning:  file_get_contents(contratos/contrato_32527198000152_9.pdf): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 36
+[21-Nov-2022 16:49:39 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 18
+[21-Nov-2022 16:50:06 America/Sao_Paulo] PHP Warning:  file_get_contents(contratos/contrato_32527198000152_9.pdf): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 36
+[21-Nov-2022 16:51:52 America/Sao_Paulo] PHP Warning:  file_get_contents(../contratos/contratos/contrato_32527198000152_9.pdf): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 36
+[21-Nov-2022 16:52:33 America/Sao_Paulo] PHP Warning:  file_get_contents(../contratos/contratos/contrato_32527198000152_9.pdf): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 36
+[21-Nov-2022 16:54:30 America/Sao_Paulo] PHP Warning:  Illegal string offset 'document' in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 48
+[21-Nov-2022 16:54:30 America/Sao_Paulo] PHP Warning:  Illegal string offset 'path' in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 48
+[21-Nov-2022 17:13:57 America/Sao_Paulo] PHP Fatal error:  escapeshellcmd(): Input string contains NULL bytes in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 45
+[21-Nov-2022 17:14:21 America/Sao_Paulo] PHP Fatal error:  escapeshellarg(): Input string contains NULL bytes in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 45
+[21-Nov-2022 17:17:07 America/Sao_Paulo] PHP Warning:  shell_exec() expects exactly 1 parameter, 3 given in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 57
+[21-Nov-2022 17:20:40 America/Sao_Paulo] PHP Warning:  shell_exec() expects exactly 1 parameter, 3 given in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 57
+[21-Nov-2022 17:42:54 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 18
+[21-Nov-2022 17:43:19 America/Sao_Paulo] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 93
+[21-Nov-2022 17:43:19 America/Sao_Paulo] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 146
+[21-Nov-2022 17:43:24 America/Sao_Paulo] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 93
+[21-Nov-2022 17:43:24 America/Sao_Paulo] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 146
+[21-Nov-2022 17:55:09 America/Sao_Paulo] PHP Fatal error:  Call to a member function execute() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 98
+[21-Nov-2022 18:01:29 America/Sao_Paulo] PHP Fatal error:  Call to a member function execute() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 98
+[29-Nov-2022 10:25:30 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/homolog/clientes/operacoes.php on line 212
+[29-Nov-2022 10:25:30 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/lawsmart/public_html/homolog/clientes/operacoes.php on line 212
+[29-Nov-2022 10:25:32 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/homolog/clientes/operacoes.php on line 212
+[29-Nov-2022 10:25:32 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/lawsmart/public_html/homolog/clientes/operacoes.php on line 212
+[29-Nov-2022 10:25:53 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/homolog/clientes/operacoes.php on line 212
+[29-Nov-2022 10:25:53 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/lawsmart/public_html/homolog/clientes/operacoes.php on line 212
+[29-Nov-2022 10:26:19 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/homolog/clientes/operacoes.php on line 212
+[29-Nov-2022 10:26:19 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/lawsmart/public_html/homolog/clientes/operacoes.php on line 212
+[29-Nov-2022 10:26:23 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/homolog/clientes/operacoes.php on line 212
+[29-Nov-2022 10:26:23 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/lawsmart/public_html/homolog/clientes/operacoes.php on line 212
+[29-Nov-2022 10:27:03 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/homolog/clientes/operacoes.php on line 213
+[29-Nov-2022 10:27:03 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/lawsmart/public_html/homolog/clientes/operacoes.php on line 213
+[29-Nov-2022 10:37:50 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/homolog/clientes/operacoes.php on line 212
+[29-Nov-2022 10:37:50 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/lawsmart/public_html/homolog/clientes/operacoes.php on line 212
+[29-Nov-2022 10:38:13 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/homolog/clientes/operacoes.php on line 212
+[29-Nov-2022 10:38:13 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/lawsmart/public_html/homolog/clientes/operacoes.php on line 212
+[29-Nov-2022 10:38:33 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/homolog/clientes/operacoes.php on line 212
+[29-Nov-2022 10:38:33 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/lawsmart/public_html/homolog/clientes/operacoes.php on line 212
+[29-Nov-2022 14:41:56 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 17
+[29-Nov-2022 14:43:20 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 18
+[05-Dec-2022 15:04:34 America/Sao_Paulo] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 174
+[05-Dec-2022 15:04:51 America/Sao_Paulo] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 174
+[05-Dec-2022 15:04:51 America/Sao_Paulo] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 174
+[05-Dec-2022 15:06:06 America/Sao_Paulo] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 174
+[05-Dec-2022 15:06:06 America/Sao_Paulo] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 174
+[05-Dec-2022 15:06:07 America/Sao_Paulo] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 174
+[05-Dec-2022 15:06:25 America/Sao_Paulo] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 174
+[05-Dec-2022 15:07:18 America/Sao_Paulo] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 174
+[05-Dec-2022 15:08:54 America/Sao_Paulo] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 174
+[05-Dec-2022 15:09:54 America/Sao_Paulo] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 174
+[05-Dec-2022 15:16:11 America/Sao_Paulo] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 174
+[05-Dec-2022 15:16:33 America/Sao_Paulo] PHP Fatal error:  Call to a member function format() on string in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 174
+[05-Dec-2022 15:19:00 America/Sao_Paulo] PHP Warning:  date() expects parameter 2 to be long, object given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 174
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 173
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 181
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 173
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 181
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 173
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 181
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 173
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 181
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 173
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 181
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 173
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 181
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 173
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 181
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 173
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 181
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 173
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:35:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 181
+[05-Dec-2022 18:38:46 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 170
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 173
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 181
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 173
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 181
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 173
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 181
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 173
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 181
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 173
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 181
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 173
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 181
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 173
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 181
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 173
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 181
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 173
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 177
+[05-Dec-2022 18:39:03 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 181
+[05-Dec-2022 18:50:55 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 18
+[05-Dec-2022 18:50:55 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 171
+[05-Dec-2022 18:51:30 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 18
+[05-Dec-2022 18:51:30 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 136
+[05-Dec-2022 18:51:46 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 18
+[05-Dec-2022 18:51:46 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 136
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 175
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 178
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 178
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 179
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 183
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 175
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 178
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 178
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 179
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 183
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 175
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 178
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 178
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 179
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 183
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 175
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 178
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 178
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 179
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 183
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 175
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 178
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 178
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 179
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 183
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nota' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 175
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'vencimento' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 178
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 179
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 179
+[05-Dec-2022 18:52:08 America/Sao_Paulo] PHP Warning:  Illegal string offset 'valor' in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 183
+[05-Dec-2022 18:54:29 America/Sao_Paulo] PHP Fatal error:  Call to a member function query() on null in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 137
+[05-Dec-2022 18:54:45 America/Sao_Paulo] PHP Fatal error:  Call to a member function query() on null in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 137
+[05-Dec-2022 18:54:47 America/Sao_Paulo] PHP Fatal error:  Call to a member function query() on null in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 137
+[05-Dec-2022 18:58:12 America/Sao_Paulo] PHP Catchable fatal error:  Object of class mysqli_stmt could not be converted to string in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 16
+[05-Dec-2022 18:58:14 America/Sao_Paulo] PHP Catchable fatal error:  Object of class mysqli_stmt could not be converted to string in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 16
+[05-Dec-2022 19:00:11 America/Sao_Paulo] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 141
+[05-Dec-2022 19:02:12 America/Sao_Paulo] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 141
+[05-Dec-2022 19:02:57 America/Sao_Paulo] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 141
+[05-Dec-2022 19:03:07 America/Sao_Paulo] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 141
+[05-Dec-2022 19:07:02 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[05-Dec-2022 19:07:05 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_row() on boolean in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 176
+[07-Dec-2022 13:38:38 America/Sao_Paulo] PHP Warning:  include(mpdf/mpdf.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 561
+[07-Dec-2022 13:38:38 America/Sao_Paulo] PHP Warning:  include(mpdf/mpdf.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 561
+[07-Dec-2022 13:38:38 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'mpdf/mpdf.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 561
+[07-Dec-2022 13:38:38 America/Sao_Paulo] PHP Fatal error:  Class 'mPDF' not found in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 563
+[07-Dec-2022 13:56:28 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE) in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 440
+[07-Dec-2022 16:25:26 America/Sao_Paulo] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 93
+[07-Dec-2022 16:25:41 America/Sao_Paulo] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 93
+[07-Dec-2022 16:42:56 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 16:42:56 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 16:42:56 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 16:42:56 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 16:42:56 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 165
+[07-Dec-2022 16:42:57 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 165
+[07-Dec-2022 16:44:29 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 16:44:29 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 16:44:30 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/lawsmart/public_html/homolog/clientes/contrato.php on line 165
+[07-Dec-2022 16:45:31 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 16:45:31 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 16:55:28 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 16:55:28 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 16:56:42 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 16:56:42 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 16:57:13 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 16:57:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 16:57:41 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 12
+[07-Dec-2022 16:57:41 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 12
+[07-Dec-2022 17:01:17 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 17:03:19 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 17:04:05 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 17:05:43 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 17:06:04 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 17:06:45 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 17:07:37 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 17:10:14 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 17:11:39 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 17:13:08 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[07-Dec-2022 17:13:14 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 10
+[16-Dec-2022 10:20:18 America/Sao_Paulo] PHP Warning:  Illegal string offset 'updated' in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 137
+[16-Dec-2022 10:27:33 America/Sao_Paulo] PHP Warning:  Illegal string offset 'updated' in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 137
+[13-Jan-2023 17:44:24 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/homolog/clientes/limites.php on line 183
+[19-Jan-2023 10:42:47 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:42:47 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:42:47 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:42:47 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:42:47 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:42:47 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:42:47 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:42:47 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:42:47 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:42:47 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:42:47 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:42:47 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:42:47 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:42:47 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:42:47 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:42:47 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:42:47 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:42:47 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:42:47 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:42:47 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:00 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:00 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:00 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:00 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:00 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:00 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:00 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:00 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:00 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:00 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:00 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:00 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:00 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:00 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:00 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:00 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:00 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:00 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:00 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:00 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:13 America/Sao_Paulo] PHP Warning:  require_once(/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:43:13 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:44:57 America/Sao_Paulo] PHP Warning:  require_once(send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:44:57 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required 'send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:45:50 America/Sao_Paulo] PHP Warning:  require_once(/var/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:45:50 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/var/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:46:39 America/Sao_Paulo] PHP Warning:  require_once(/public_html/homolog/send_mail.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:46:39 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/public_html/homolog/send_mail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 3
+[19-Jan-2023 10:47:25 America/Sao_Paulo] PHP Fatal error:  Class 'PHPMailer\PHPMailer\SMTP' not found in /home/lawsmart/phpmailer/PHPMailer.php on line 1671
+[19-Jan-2023 10:48:36 America/Sao_Paulo] PHP Fatal error:  Class 'PHPMailer\PHPMailer\SMTP' not found in /home/lawsmart/phpmailer/PHPMailer.php on line 1671
+[19-Jan-2023 10:51:02 America/Sao_Paulo] PHP Warning:  require_once(/home/lawsmart/phpmailer/PHPMailer.php): failed to open stream: No such file or directory in /home/lawsmart/send_mail.php on line 2
+[19-Jan-2023 10:51:02 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/home/lawsmart/phpmailer/PHPMailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/send_mail.php on line 2
+[19-Jan-2023 11:21:17 America/Sao_Paulo] PHP Warning:  require_once(/home/lawsmart/phpmailer/PHPMailer.php): failed to open stream: No such file or directory in /home/lawsmart/send_mail.php on line 2
+[19-Jan-2023 11:21:17 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/home/lawsmart/phpmailer/PHPMailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/send_mail.php on line 2
+[19-Jan-2023 11:21:38 America/Sao_Paulo] PHP Warning:  require_once(/home/lawsmart/PHPmailer/PHPMailer.php): failed to open stream: No such file or directory in /home/lawsmart/send_mail.php on line 2
+[19-Jan-2023 11:21:38 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/home/lawsmart/PHPmailer/PHPMailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/send_mail.php on line 2
+[19-Jan-2023 11:22:59 America/Sao_Paulo] PHP Fatal error:  Class 'PHPMailer\PHPMailer\SMTP' not found in /home/lawsmart/PHPMailer/src/PHPMailer.php on line 1982
+[19-Jan-2023 12:32:00 America/Sao_Paulo] PHP Warning:  file_get_contents(layout/antecipacao-sucesso.html): failed to open stream: No such file or directory in /home/lawsmart/send_mail.php on line 44
+[19-Jan-2023 12:32:00 America/Sao_Paulo] PHP Fatal error:  Class 'PHPMailer\PHPMailer\Exception' not found in /home/lawsmart/PHPMailer/src/PHPMailer.php on line 1604
+[19-Jan-2023 12:32:41 America/Sao_Paulo] PHP Warning:  file_get_contents(layout/antecipacao-sucesso.html): failed to open stream: No such file or directory in /home/lawsmart/send_mail.php on line 44
+[19-Jan-2023 12:32:41 America/Sao_Paulo] PHP Fatal error:  Class 'PHPMailer\PHPMailer\Exception' not found in /home/lawsmart/PHPMailer/src/PHPMailer.php on line 1604
+[19-Jan-2023 12:32:53 America/Sao_Paulo] PHP Warning:  file_get_contents(layout/antecipacao-sucesso.html): failed to open stream: No such file or directory in /home/lawsmart/send_mail.php on line 44
+[19-Jan-2023 12:32:53 America/Sao_Paulo] PHP Fatal error:  Class 'PHPMailer\PHPMailer\Exception' not found in /home/lawsmart/PHPMailer/src/PHPMailer.php on line 1604
+[19-Jan-2023 12:34:09 America/Sao_Paulo] PHP Warning:  file_get_contents(./layout/antecipacao-sucesso.html): failed to open stream: No such file or directory in /home/lawsmart/send_mail.php on line 45
+[19-Jan-2023 12:34:09 America/Sao_Paulo] PHP Warning:  file_get_contents(./layout/antecipacao-assinatura.html): failed to open stream: No such file or directory in /home/lawsmart/send_mail.php on line 38
+[19-Jan-2023 12:34:29 America/Sao_Paulo] PHP Warning:  file_get_contents(layout/antecipacao-sucesso.html): failed to open stream: No such file or directory in /home/lawsmart/send_mail.php on line 45
+[19-Jan-2023 12:34:29 America/Sao_Paulo] PHP Warning:  file_get_contents(layout/antecipacao-assinatura.html): failed to open stream: No such file or directory in /home/lawsmart/send_mail.php on line 38
+[19-Jan-2023 13:00:40 America/Sao_Paulo] PHP Fatal error:  Call to undefined function send_pagamento_postergacao_mail() in /home/lawsmart/send_mail.php on line 28
+[19-Jan-2023 16:17:44 America/Sao_Paulo] PHP Warning:  Missing argument 4 for dispatch_event_mail(), called in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 40 and defined in /home/lawsmart/send_mail.php on line 6
+[19-Jan-2023 16:17:45 America/Sao_Paulo] PHP Warning:  Missing argument 4 for dispatch_event_mail(), called in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 40 and defined in /home/lawsmart/send_mail.php on line 6
+[19-Jan-2023 16:17:58 America/Sao_Paulo] PHP Warning:  Missing argument 4 for dispatch_event_mail(), called in /home/lawsmart/public_html/homolog/clientes/fetch.php on line 40 and defined in /home/lawsmart/send_mail.php on line 6
+[19-Jan-2023 16:20:07 America/Sao_Paulo] PHP Fatal error:  Call to undefined function object() in /home/lawsmart/send_mail.php on line 18
+[19-Jan-2023 16:20:49 America/Sao_Paulo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/lawsmart/send_mail.php on line 19
+[19-Jan-2023 16:21:46 America/Sao_Paulo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/lawsmart/send_mail.php on line 19
+[19-Jan-2023 16:22:37 America/Sao_Paulo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/lawsmart/send_mail.php on line 19
+[19-Jan-2023 16:23:25 America/Sao_Paulo] PHP Warning:  Missing argument 3 for send_antecipacao_assinar_mail(), called in /home/lawsmart/send_mail.php on line 23 and defined in /home/lawsmart/send_mail.php on line 55
+[19-Jan-2023 16:27:43 America/Sao_Paulo] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/lawsmart/send_mail.php on line 50
+[20-Jan-2023 10:11:16 America/Sao_Paulo] PHP Warning:  file_get_contents(contratos/contrato_26255148000160_4140.pdf): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 42
+[20-Jan-2023 10:11:33 America/Sao_Paulo] PHP Warning:  file_get_contents(contratos/contrato_26255148000160_4140.pdf): failed to open stream: No such file or directory in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 42
+[25-Jan-2023 16:08:23 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 18
+[25-Jan-2023 16:08:23 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 234
+[25-Jan-2023 16:08:49 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 18
+[25-Jan-2023 16:08:49 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 234
+[26-Jan-2023 13:38:29 America/Sao_Paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 18
+[26-Jan-2023 13:38:29 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 234
+[26-Jan-2023 13:50:46 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 18
+[26-Jan-2023 14:03:39 America/Sao_Paulo] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/homolog/clientes/autentique.php on line 235
+[26-Jan-2023 14:03:40 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/lawsmart/send_mail.php on line 184
+[19-Jun-2023 15:58:36 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/homolog/clientes/limites.php on line 183
+[19-Jun-2023 15:59:36 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/homolog/clientes/limites.php on line 183
+[19-Jun-2023 16:01:12 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/homolog/clientes/limites.php on line 183
+[19-Jun-2023 16:04:14 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/homolog/clientes/limites.php on line 183
+[19-Jun-2023 16:04:31 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/homolog/clientes/limites.php on line 183
+[13-Dec-2023 09:34:04 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 183
+[14-Dec-2023 08:45:58 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 183
+[14-Dec-2023 08:46:02 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 183
+[14-Dec-2023 08:46:07 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 183
+[14-Dec-2023 08:46:28 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 183
+[14-Dec-2023 08:46:30 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 183
+[14-Dec-2023 08:47:05 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 183
+[20-Dec-2023 17:32:49 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 183
+[20-Dec-2023 17:33:12 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 183
+[20-Dec-2023 17:37:12 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'lawsmart_agricopel'@'localhost' (using password: YES) in /home/lawsmart/public_html/agricopel/clientes/config.php on line 6
+[20-Dec-2023 17:37:12 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lawsmart/public_html/agricopel/clientes/config.php on line 7
+[20-Dec-2023 17:37:12 America/Sao_Paulo] PHP Warning:  mysqli_escape_string() expects parameter 1 to be mysqli, boolean given in /home/lawsmart/public_html/agricopel/clientes/index.php on line 51
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'lawsmart_agricopel'@'localhost' (using password: YES) in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'lawsmart_agricopel'@'localhost' (using password: YES) in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'lawsmart_agricopel'@'localhost' (using password: YES) in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'lawsmart_agricopel'@'localhost' (using password: YES) in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'lawsmart_agricopel'@'localhost' (using password: YES) in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function execute() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 15
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'lawsmart_agricopel'@'localhost' (using password: YES) in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'lawsmart_agricopel'@'localhost' (using password: YES) in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'lawsmart_agricopel'@'localhost' (using password: YES) in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'lawsmart_agricopel'@'localhost' (using password: YES) in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'lawsmart_agricopel'@'localhost' (using password: YES) in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:37:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function execute() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 15
+[20-Dec-2023 17:37:51 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/config.php on line 6
+[20-Dec-2023 17:37:51 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lawsmart/public_html/agricopel/clientes/config.php on line 7
+[20-Dec-2023 17:37:51 America/Sao_Paulo] PHP Warning:  mysqli_escape_string() expects parameter 1 to be mysqli, boolean given in /home/lawsmart/public_html/agricopel/clientes/index.php on line 51
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Fatal error:  Call to a member function execute() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 15
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Fatal error:  Call to a member function execute() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 15
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:37:52 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:38:23 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/config.php on line 6
+[20-Dec-2023 17:38:23 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lawsmart/public_html/agricopel/clientes/config.php on line 7
+[20-Dec-2023 17:38:23 America/Sao_Paulo] PHP Warning:  mysqli_escape_string() expects parameter 1 to be mysqli, boolean given in /home/lawsmart/public_html/agricopel/clientes/index.php on line 51
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Fatal error:  Call to a member function execute() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 15
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Fatal error:  Call to a member function execute() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 15
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'lawsmart_agricopel'@'localhost' to database 'lawsmart_agricopelTeste' in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 5
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 6
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 9
+[20-Dec-2023 17:38:24 America/Sao_Paulo] PHP Fatal error:  Call to a member function bind_param() on null in /home/lawsmart/public_html/agricopel/clientes/fetch.php on line 12
+[21-Dec-2023 09:38:46 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 183
+[21-Dec-2023 10:20:42 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 183
+[21-Dec-2023 17:16:30 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 183
+[21-Dec-2023 17:18:03 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 183
+[21-Dec-2023 17:18:25 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 183
+[21-Dec-2023 17:22:55 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 183
+[21-Dec-2023 17:22:57 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 183
+[21-Dec-2023 17:24:30 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 183
+[21-Dec-2023 17:24:31 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 183
+[21-Dec-2023 17:24:35 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 183
+[21-Dec-2023 17:24:35 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 183
+[21-Dec-2023 17:24:55 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 186
+[21-Dec-2023 17:24:55 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 186
+[21-Dec-2023 17:26:01 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 242
+[21-Dec-2023 17:26:27 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 194
+[21-Dec-2023 17:26:28 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 194
+[21-Dec-2023 17:26:57 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/lawsmart/public_html/agricopel/clientes/limites.php on line 194

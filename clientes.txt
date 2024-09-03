@@ -1,0 +1,38 @@
+/clientes
+
+operações:
+  1 - antecipar
+  2 - postergar
+
+antecipar:
+  1 - gera antecipada
+  2 - calcula juros + taxas
+  3 - gera antecipadaDetalhes
+  4 - gera contrato
+  5 - envia contrato p/ autentique (assinatura e-mail)
+
+postergar:
+  1 - seleciona nova data vencimento (min 15 dias e max 30 dias)
+  2 - calcula juros + taxas
+  3 - edita operação existente p/ status 4 (postergada)
+  4 - gera nova operação com novos dados
+  4 - salva dados p/ emissão boleto (tabela boletos. status P [pendente]) E - enviado | R - registrado | X - rejeitado | B - baixado | O - outros
+  5 - gera contrato
+  6 - envia contrato p/ autentique (alterações e-cpf)
+
+  algodaodocekids@live.com
+  10278055000111
+
+
+01REMESSA01COBRANCA       086200995701        LAWSEC S/A                    341ITAU           050922                                                                                                                                                                                                                                                                                                      000001
+10413476058000158086200995701    00001201                     000000010000000000000109                     I09033831/00430092200000000875663410000001N050922000000000000007453009220000000000000000000000000000000000000000210278055000111ALGODAO DOCE MODA INFANTIL LTD          RUA CONRAD RIEGEL, 20                   CENTRO      89258070JARAGUA DO SUL SCLAWSEC S/A                        00000000 000002
+22300920220000000000500                                                                                                                                                                                                                                                                                                                                                                                  000003
+5                                                                                                                        0213476058000158RUA JORGE CZERNIEWICZ, 99               CZERNIEWICZ 89255000JARAGUA DO SUL SC                                                                                                                                                                                    000004
+10413476058000158086200995701    00001202                     000000020000000000000109                     I099036/004  16092200000001786313410000001N050922000000000000007451609220000000000000000000000000000000000000000225079769000178INME INDUSTRIA DO VESTUARIO EI          RUA CONRAD RIEGEL, 20                   CENTRO      89258070JARAGUA DO SUL SCLAWSEC S/A                        00000000 000005
+22160920220000000000500                                                                                                                                                                                                                                                                                                                                                                                  000006
+5                                                                                                                        0213476058000158RUA JORGE CZERNIEWICZ, 99               CZERNIEWICZ 89255000JARAGUA DO SUL SC                                                                                                                                                                                    000007
+10413476058000158086200995701    00001203                     000000030000000000000109                     I09797/003   13092200000000055423410000001N050922000000000000007451309220000000000000000000000000000000000000000217439458000144BEATRIZ MARTA MACHADO ME                RUA DANIEL RUMPEL, 400                  BAEPENDI    89256430JARAGUA DO SUL SCLAWSEC S/A                        00000000 000008
+22130920220000000000500                                                                                                                                                                                                                                                                                                                                                                                  000009
+5                                                                                                                        0213476058000158RUA JORGE CZERNIEWICZ, 99               CZERNIEWICZ 89255000JARAGUA DO SUL SC                                                                                                                                                                                    000010
+9                                                                                                                                                                                                                                                                                                                                                                                                         000011
+

@@ -4,8 +4,41 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b47289324dcb859108977af471338e57",
+    "content-hash": "7118ba845a5ee5e82193359e6d12bc59",
     "packages": [
+        {
+            "name": "cobregratis/boletophp",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/CobreGratis/boletophp.git",
+                "reference": "a59d8b525c5960aa98215a0e285204744962e9b6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/CobreGratis/boletophp/zipball/a59d8b525c5960aa98215a0e285204744962e9b6",
+                "reference": "a59d8b525c5960aa98215a0e285204744962e9b6",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "default-branch": true,
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "Projeto Código-Aberto de Sistema de Boletos bancários em PHP",
+            "homepage": "http://boletophp.com.br/",
+            "keywords": [
+                "boleto",
+                "boletophp",
+                "php"
+            ],
+            "support": {
+                "issues": "https://github.com/CobreGratis/boletophp/issues",
+                "source": "https://github.com/CobreGratis/boletophp/tree/master"
+            },
+            "time": "2016-11-30T12:23:13+00:00"
+        },
         {
             "name": "leandroferreirama/api-itau",
             "version": "2.1.16",
@@ -51,7 +84,9 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "cobregratis/boletophp": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

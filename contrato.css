@@ -1,0 +1,11 @@
+h3 { font-size:11pt; font-weight: bold; text-decoration: underline; }
+p { font-size:10pt; font-weight: 400; text-decoration: none; text-align: justify; }
+p.footer { border-top:solid 1px lightslategrey; font-size:7pt; text-align: left; }
+.bold { font-weight: bold; }
+.under { font-weight: bold; text-decoration: underline; }
+table { width:90%; margin-left:5%; border-collapse: collapse; }
+thead tr td { padding:3px; border:solid 1px black; font-size:8pt; text-align: center; font-weight:bold; background-color: lightslategrey; }
+tbody tr td { padding:3px; border:solid 1px black; font-size:8pt; font-weight:400; background-color: white; }
+.left { text-align:left; }
+.center { text-align: center; }
+.right { text-align: right; }

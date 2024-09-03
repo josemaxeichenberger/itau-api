@@ -1,0 +1,310 @@
+{
+    "headers": {
+        "X-Https": "1",
+        "Content-Length": "8936",
+        "Host": "lawsmart.online",
+        "User-Agent": "Ruby",
+        "Accept": "*\/*",
+        "Accept-Encoding": "gzip;q=1.0,deflate;q=0.6,identity;q=0.3",
+        "Event": "auto_close",
+        "Content-Hmac": "sha256=a1c19cf8546f3aaa7d528b719d43689ed7451af43d63c78554163a79536c6ddf",
+        "Content-Type": "application\/json"
+    },
+    "body": {
+        "event": {
+            "name": "auto_close",
+            "data": null,
+            "occurred_at": "2024-01-25T14:05:01.774-03:00"
+        },
+        "document": {
+            "key": "22c56fe9-b0cd-4aa0-8654-e1cfc867809e",
+            "account_key": "966c02f9-e32d-4f04-b1f0-f619f7560ade",
+            "path": "\/contratos\/contrato_83875005000195_1.pdf",
+            "filename": "contrato_83875005000195_1.pdf",
+            "uploaded_at": "2024-01-25T17:02:46.181Z",
+            "updated_at": "2024-01-25T17:05:01.698Z",
+            "finished_at": "2024-01-25T17:05:01.606Z",
+            "deadline_at": "2024-02-24T14:02:45.930-03:00",
+            "status": "closed",
+            "auto_close": true,
+            "locale": "pt-BR",
+            "metadata": [],
+            "sequence_enabled": false,
+            "signable_group": null,
+            "remind_interval": null,
+            "block_after_refusal": true,
+            "preview": true,
+            "downloads": {
+                "original_file_url": "https:\/\/clicksign-content-production.s3.amazonaws.com\/2024\/01\/25\/17\/02\/45\/17d529fe-bd4a-4e17-bf24-ea5d99037898\/contrato_83875005000195_1.pdf?X-Amz-Expires=299&X-Amz-Date=20240125T170502Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDG%2BDQ2GRV%2FoeoqscJtsIH9ASleovKQ8QqEuAg3704nwgIhAI%2BLHrifzv%2F5Q2hUMHirv017Y%2FxS5MMIv2znRobJop2yKrsFCI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjk2OTc2MzYwOTY3IgwvEnwft9HO2gjwnGkqjwUWn2f1O8p6Umkwm7T1%2BCTyUOemfme%2Fo08TSICMet7G5hoLwkzjN%2FbR0quLk5vb0qHnmPjelPwRZ1IrjfS1%2Fl5ogfHEiy2v%2BgJgCpfUFO8ddP2qgBvYZQsr52Z3ZRWXc9yqFqwN4c3Se6uoc9nucog5ywYkRvdyAnPF7qoCROlxP5eWBBHDZokgyp2BjkyKMiEXuRFmmeQmqhoGt%2FUcA%2Bs%2FjDzVkFUb0G5AJOD6lZDwwonK9FI4YlM6LJFeISFAmVpVVZylZ6yIl7vSE%2FnmhE0JHsa2Y8Jsm7d0287SwJ6pZxToB4qpWnGx8s8i3tav65612hYVMj0zEiYlgJgVn07bGSiEoUhumzohwZMv5L2LniN1%2BSj%2FwdPFYh9Rd3rE5L5XiVNnR08BgAzHxylGPztfII2XL25dBAnEAL3%2Fn4PT29gFtUVMsDJJwNAVO7mMMHqi5OCO0gR4HnU%2BJ9fNousmTeLvTAdFLxWVWghMobFilkyo6tT1xwJv8DLQ%2FW8n0vJXrQN%2B0vow2sPmxStQOysRYgZZ9YqpX4ZJqeJfi%2FuwC%2FLzYueRuZJT8BzgsjnTSWObzPWIStbVer1MbE9tTuPbM3aapjpkjA4iA2ud8TEuiqgc248XvR6%2FI%2BE0ulJcD7KEZCeWfmE1WTMjngVSZjrm0asCqux%2BjjQIjNyZ6ibpqLcJ9yDmOrtz%2BJM8RRJCjW8PWMy7nNUszuic7wHh2A9aUuaYSViECkBX6cRis4vUDH%2FzXUo7rEtejgYQjN3r4AYKCsymA6fU9ofWicCDUhmVn76KI50jExRU0dzR8Kx4y9U8LXQSx6tpSM9O3nU8L8Rbpnjk4BnzAser%2FVr4LJj1IjLIeP0kwuiGS%2BbXBsh2ML%2BWya0GOrABmLHpvgQ6VR7ZaQi7XnKZ%2B2cs%2FjfmXwgeSs6W%2FlqffEtdXDwnD2HXv8XcazANWmEOyH%2B31g%2FieQ5KUCFHqLSWGZQz3pgJC3d%2FnbbeyeJCwuXLMkZSPWfjFVAd33XR1OtQardAbm39%2FrDiSiccVHc0fCYm6nkVTFkCabZUVUjixfCLX8H%2BKo9Ci1hqqDow53rPiOx%2B3DPou6RK1JDDsk375iCTD0w8zqnwCibIX2jYdV4%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDWUBCE23G%2F20240125%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=77f9191813ec0c28ebd94accaa6127d2da55a3f27b31f68db528fbdb3c4ca59a"
+            },
+            "template": null,
+            "signers": [
+                {
+                    "list_key": "163ebab9-5528-417b-9d94-8d43dcfafb57",
+                    "key": "da8e1937-4f09-48bd-9f72-6a370f4c11f1",
+                    "request_signature_key": "1db661e7-43c2-4540-b697-346a698308be",
+                    "email": "gilberto@lawsecsa.com.br",
+                    "name": "Gilberto e.",
+                    "has_documentation": false,
+                    "documentation": null,
+                    "birthday": null,
+                    "phone_number": null,
+                    "sign_as": "party",
+                    "delivery": "none",
+                    "refusable": false,
+                    "url": "https:\/\/app.clicksign.com\/sign\/1db661e7-43c2-4540-b697-346a698308be",
+                    "auths": [
+                        "api"
+                    ],
+                    "created_at": "2022-11-23T18:24:25.060Z",
+                    "signature": {
+                        "name": "Gilberto e.",
+                        "email": "gilberto@lawsecsa.com.br",
+                        "birthday": null,
+                        "documentation": null,
+                        "validation": {
+                            "status": "cpf_empty",
+                            "name": "Gilberto e."
+                        },
+                        "ip_address": "186.226.58.115",
+                        "signed_at": "2024-01-25T17:02:48.851Z",
+                        "sign_as": "party"
+                    }
+                },
+                {
+                    "list_key": "aa108f98-9b16-4794-945f-56ac0eecbfdf",
+                    "key": "98961568-522b-4e84-b554-6b9810298836",
+                    "request_signature_key": "7080b646-7af3-4f7d-8f95-426b1f0504b9",
+                    "email": "gilberto@lawfinancas.com.br",
+                    "name": "BIGUACU TRANSP COLE ADM E PARTICIPACOES",
+                    "has_documentation": true,
+                    "documentation": "051.603.129-51",
+                    "birthday": null,
+                    "phone_number": null,
+                    "sign_as": "party",
+                    "delivery": "email",
+                    "refusable": false,
+                    "url": "https:\/\/app.clicksign.com\/sign\/7080b646-7af3-4f7d-8f95-426b1f0504b9",
+                    "auths": [
+                        "icp_brasil"
+                    ],
+                    "created_at": "2024-01-25T17:02:47.362Z",
+                    "signature": {
+                        "name": "BIGUACU TRANSP COLE ADM E PARTICIPACOES",
+                        "email": "gilberto@lawfinancas.com.br",
+                        "birthday": "1988-06-08",
+                        "documentation": "051.603.129-51",
+                        "validation": {
+                            "status": "pending",
+                            "name": "BIGUACU TRANSP COLE ADM E PARTICIPACOES"
+                        },
+                        "ip_address": "186.235.59.43",
+                        "signed_at": "2024-01-25T17:05:01.351Z",
+                        "sign_as": "party"
+                    }
+                }
+            ],
+            "events": [
+                {
+                    "name": "auto_close",
+                    "data": null,
+                    "occurred_at": "2024-01-25T17:05:01.774Z"
+                },
+                {
+                    "name": "sign",
+                    "data": {
+                        "signer": {
+                            "sign_as": "party",
+                            "key": "98961568-522b-4e84-b554-6b9810298836",
+                            "email": "gilberto@lawfinancas.com.br",
+                            "name": "BIGUACU TRANSP COLE ADM E PARTICIPACOES",
+                            "birthday": "1988-06-08",
+                            "documentation": "051.603.129-51",
+                            "has_documentation": true,
+                            "created_at": "2024-01-25T14:02:47.362-03:00",
+                            "auths": [
+                                "icp_brasil"
+                            ],
+                            "selfie_enabled": false,
+                            "handwritten_enabled": false,
+                            "official_document_enabled": false,
+                            "liveness_enabled": false,
+                            "facial_biometrics_enabled": false,
+                            "communicate_by": "email",
+                            "list_key": "aa108f98-9b16-4794-945f-56ac0eecbfdf",
+                            "url": "https:\/\/app.clicksign.com\/sign\/7080b646-7af3-4f7d-8f95-426b1f0504b9",
+                            "address": "186.235.59.43",
+                            "validation": {
+                                "status": "pending",
+                                "name": "BIGUACU TRANSP COLE ADM E PARTICIPACOES"
+                            },
+                            "selfie_name": null,
+                            "selfie_hash": null,
+                            "handwritten_hash": null,
+                            "handwritten_name": null,
+                            "official_document_front_hash": null,
+                            "official_document_back_hash": null,
+                            "official_front_name": "official_document_front_25 jan 2024, 14-05-01.png",
+                            "official_back_name": "official_document_back_25 jan 2024, 14-05-01.png",
+                            "certificate_type": "A1",
+                            "person_type": "e-cpf",
+                            "read_receipts?": false,
+                            "latitude": "-26.492928",
+                            "longitude": "-49.0897408"
+                        },
+                        "secret_hmac": null,
+                        "account": {
+                            "key": "966c02f9-e32d-4f04-b1f0-f619f7560ade",
+                            "timestamp_signature_functionality": false
+                        },
+                        "log_version": "1.726.0",
+                        "url": "https:\/\/app.clicksign.com"
+                    },
+                    "occurred_at": "2024-01-25T17:05:01.505Z"
+                },
+                {
+                    "name": "sign",
+                    "data": {
+                        "signer": {
+                            "sign_as": "party",
+                            "key": "da8e1937-4f09-48bd-9f72-6a370f4c11f1",
+                            "email": "gilberto@lawsecsa.com.br",
+                            "name": "Gilberto e.",
+                            "birthday": null,
+                            "documentation": null,
+                            "has_documentation": false,
+                            "created_at": "2022-11-23T15:24:25.060-03:00",
+                            "auths": [
+                                "api"
+                            ],
+                            "selfie_enabled": false,
+                            "handwritten_enabled": false,
+                            "official_document_enabled": false,
+                            "liveness_enabled": false,
+                            "facial_biometrics_enabled": false,
+                            "communicate_by": "email",
+                            "list_key": "163ebab9-5528-417b-9d94-8d43dcfafb57",
+                            "url": "https:\/\/app.clicksign.com\/sign\/1db661e7-43c2-4540-b697-346a698308be",
+                            "address": "186.226.58.115",
+                            "validation": {
+                                "status": "cpf_empty",
+                                "name": "Gilberto e."
+                            },
+                            "selfie_name": null,
+                            "selfie_hash": null,
+                            "handwritten_hash": null,
+                            "handwritten_name": null,
+                            "official_document_front_hash": null,
+                            "official_document_back_hash": null,
+                            "official_front_name": "official_document_front_25 jan 2024, 14-02-48.png",
+                            "official_back_name": "official_document_back_25 jan 2024, 14-02-48.png",
+                            "read_receipts?": false
+                        },
+                        "secret_hmac": "b2f7866cc569ca63c293e8c39bcdb0704cbb80df4847eca357d857affebdaa55",
+                        "account": {
+                            "key": "966c02f9-e32d-4f04-b1f0-f619f7560ade",
+                            "timestamp_signature_functionality": false
+                        },
+                        "log_version": "1.726.0",
+                        "url": "https:\/\/app.clicksign.com"
+                    },
+                    "occurred_at": "2024-01-25T17:02:48.946Z"
+                },
+                {
+                    "name": "add_signer",
+                    "data": {
+                        "user": {
+                            "email": "gilberto@lawsecsa.com.br",
+                            "name": "Gilberto Eichenberg"
+                        },
+                        "account": {
+                            "key": "966c02f9-e32d-4f04-b1f0-f619f7560ade"
+                        },
+                        "signers": [
+                            {
+                                "sign_as": "party",
+                                "key": "98961568-522b-4e84-b554-6b9810298836",
+                                "email": "gilberto@lawfinancas.com.br",
+                                "name": "BIGUACU TRANSP COLE ADM E PARTICIPACOES",
+                                "birthday": null,
+                                "documentation": "051.603.129-51",
+                                "has_documentation": true,
+                                "created_at": "2024-01-25T14:02:47.362-03:00",
+                                "auths": [
+                                    "icp_brasil"
+                                ],
+                                "selfie_enabled": false,
+                                "handwritten_enabled": false,
+                                "official_document_enabled": false,
+                                "liveness_enabled": false,
+                                "facial_biometrics_enabled": false,
+                                "communicate_by": "email",
+                                "list_key": "aa108f98-9b16-4794-945f-56ac0eecbfdf",
+                                "url": "https:\/\/app.clicksign.com\/sign\/98961568-522b-4e84-b554-6b9810298836",
+                                "read_receipts?": false
+                            }
+                        ]
+                    },
+                    "occurred_at": "2024-01-25T17:02:47.881Z"
+                },
+                {
+                    "name": "add_signer",
+                    "data": {
+                        "user": {
+                            "email": "gilberto@lawsecsa.com.br",
+                            "name": "Gilberto Eichenberg"
+                        },
+                        "account": {
+                            "key": "966c02f9-e32d-4f04-b1f0-f619f7560ade"
+                        },
+                        "signers": [
+                            {
+                                "sign_as": "party",
+                                "key": "da8e1937-4f09-48bd-9f72-6a370f4c11f1",
+                                "email": "gilberto@lawsecsa.com.br",
+                                "name": "Gilberto e.",
+                                "birthday": null,
+                                "documentation": null,
+                                "has_documentation": false,
+                                "created_at": "2022-11-23T15:24:25.060-03:00",
+                                "auths": [
+                                    "api"
+                                ],
+                                "selfie_enabled": false,
+                                "handwritten_enabled": false,
+                                "official_document_enabled": false,
+                                "liveness_enabled": false,
+                                "facial_biometrics_enabled": false,
+                                "communicate_by": "email",
+                                "list_key": "163ebab9-5528-417b-9d94-8d43dcfafb57",
+                                "url": "https:\/\/app.clicksign.com\/sign\/da8e1937-4f09-48bd-9f72-6a370f4c11f1",
+                                "read_receipts?": false
+                            }
+                        ]
+                    },
+                    "occurred_at": "2024-01-25T17:02:46.819Z"
+                },
+                {
+                    "name": "upload",
+                    "data": {
+                        "user": {
+                            "email": "gilberto@lawsecsa.com.br",
+                            "name": "Gilberto Eichenberg"
+                        },
+                        "account": {
+                            "key": "966c02f9-e32d-4f04-b1f0-f619f7560ade"
+                        },
+                        "deadline_at": "2024-02-24T14:02:45.930-03:00",
+                        "auto_close": true,
+                        "locale": "pt-BR"
+                    },
+                    "occurred_at": "2024-01-25T17:02:46.228Z"
+                }
+            ],
+            "attachments": [],
+            "links": {
+                "self": "\/accounts\/363337\/folders\/46712062\/documents\/22c56fe9-b0cd-4aa0-8654-e1cfc867809e"
+            }
+        }
+    }
+}

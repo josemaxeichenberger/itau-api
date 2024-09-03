@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+# CONFIGURAR UTILIZA«√O DO HTTPS 
+RewriteCond %{SERVER_PORT} 80 
+RewriteRule ^(.*)$ https://lawsmart.online/homolog/ancora/$1 [R]
+
+  # Redirecionamento dos demais links
+  RewriteRule ^([a-z0-9-_]+)/?$ $1.php [NC]
+
+</IfModule>

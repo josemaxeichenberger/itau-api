@@ -1,0 +1,24 @@
+{
+    "signer": {
+        "key": "ead39a9d-6f81-40b5-a284-06d2689be393",
+        "email": "fintex@lawsmart.com.br",
+        "auths": [
+            "email"
+        ],
+        "delivery": "email",
+        "name": "FRANCISCO CAVIGUIOLI",
+        "documentation": null,
+        "selfie_enabled": false,
+        "handwritten_enabled": false,
+        "birthday": null,
+        "phone_number": "00000000000",
+        "has_documentation": false,
+        "created_at": "2024-07-09T08:38:48.859-03:00",
+        "updated_at": "2024-07-09T08:38:48.859-03:00",
+        "official_document_enabled": false,
+        "liveness_enabled": false,
+        "facial_biometrics_enabled": false,
+        "communicate_by": "email",
+        "location_required_enabled": false
+    }
+}

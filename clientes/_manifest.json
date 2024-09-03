@@ -1,0 +1,21 @@
+{
+"version": "1.0",
+"lang" : "en",
+"name" : "LotoChain",
+"scope" : "/",
+"display" : "fullscreen",
+"start_url" : "index.html",
+"short_name" : "LotoChain",
+"description" : "",
+"orientation" : "portrait",
+"background_color": "#000000",
+"theme_color": "#000000",
+"generated" : "true",
+  "icons": [
+    {
+      "src": "ico.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ]
+}

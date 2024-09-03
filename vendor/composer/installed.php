@@ -3,7 +3,7 @@
         'name' => '__root__',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '8240c771478d3e7ad321fe23e1c7a90f7c5fb206',
+        'reference' => 'd666d18428508cfa382230b0978a07e9c8af2680',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,10 +13,21 @@
         '__root__' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '8240c771478d3e7ad321fe23e1c7a90f7c5fb206',
+            'reference' => 'd666d18428508cfa382230b0978a07e9c8af2680',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'cobregratis/boletophp' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'a59d8b525c5960aa98215a0e285204744962e9b6',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../cobregratis/boletophp',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
             'dev_requirement' => false,
         ),
         'leandroferreirama/api-itau' => array(
