@@ -1,0 +1,5 @@
+{
+    "require": {
+        "leandroferreirama/api-itau": "^2.1"
+    }
+}

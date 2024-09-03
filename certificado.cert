@@ -1,7 +1,3 @@
-# itau-api
-api do banco itaú pra boletos .
-Cliente ID:   1a5796ef-ec1e-454a-a442-8bf4646e203f
-Secret: 5e6ca3b1-4060-4e6c-9201-c55a6ff833ec
 -----BEGIN CERTIFICATE-----
 MIIDmzCCAoOgAwIBAgITLgAAACb+81zoTyaebQAAAAAAJjANBgkqhkiG9w0BAQsF
 ADCBgzELMAkGA1UEBhMCQlIxEjAQBgNVBAgTCVNhbyBQYXVsbzESMBAGA1UEBxMJ
