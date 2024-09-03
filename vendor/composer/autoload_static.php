@@ -7,6 +7,10 @@ namespace Composer\Autoload;
 class ComposerStaticInit53e7b3c44a0c36b882614c7f24f0702f
 {
     public static $prefixLengthsPsr4 = array (
+        'P' => 
+        array (
+            'PHPMailer\\PHPMailer\\' => 20,
+        ),
         'I' => 
         array (
             'Itau\\' => 5,
@@ -14,6 +18,10 @@ class ComposerStaticInit53e7b3c44a0c36b882614c7f24f0702f
     );
 
     public static $prefixDirsPsr4 = array (
+        'PHPMailer\\PHPMailer\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phpmailer/phpmailer/src',
+        ),
         'Itau\\' => 
         array (
             0 => __DIR__ . '/..' . '/leandroferreirama/api-itau/src/Itau',

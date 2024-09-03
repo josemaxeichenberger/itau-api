@@ -1,7 +1,8 @@
 {
     "require": {
         "leandroferreirama/api-itau": "^2.1",
-        "cobregratis/boletophp": "dev-master" 
-
+        "cobregratis/boletophp": "dev-master",
+        "phpmailer/phpmailer": "^6.9" 
+        
     }
 }
